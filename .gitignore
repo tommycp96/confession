@@ -1,0 +1,30 @@
+# System files #
+###############
+.DS_Store
+Thumbs.db
+
+# Editor directories #
+######################
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Dependencies #
+################
+node_modules/
+
+# Build outputs #
+#################
+dist/
+build/
+*.log
+
+# Environment files #
+#####################
+.env
+.env.*
+
+# Operating System generated files #
+###################################
+ehthumbs.db
+Icon?
